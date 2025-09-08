@@ -6,7 +6,7 @@ I wrote this poem myself, with the use of a Macbook, an HP external monitor, and
 
 I wanted to critique AI’s contribution to decision making in military scenarios and the imagined 'absolution' or 'randomness' that these systems perpetuate. ‘This Poem Opposes Genocide’ includes several pseudo-random choice commands to set the tone of the generated letter, but I explicitly removed options for a mood of generous since that no longer feels viable. Additionally, the randomizer has been seeded with the years of the Nakba and the three intifadas, which should result in the choice always returning angry. This is not an attempt to invalidate other emotional responses, but rather an attempt to contextualize that none of this is random.
 
-The names of the dead in the infants array come from a dataset hosted by the Tech for Palestine collective, ‘Killed in Gaza.' I wanted the array to be visually striking and thus sought a fixed line length. I wrote a small script to help with string length counting, but otherwise sorted them manually. I am still not sure if this was the best method or the most respectful process. 
+The names of the dead in the infants array come from a dataset hosted by the [Tech for Palestine](https://data.techforpalestine.org/docs/killed-in-gaza/) collective, ‘Killed in Gaza.' I wanted the array to be visually striking and thus sought a fixed line length. I wrote a small script to help with string length counting, but otherwise sorted them manually. I am still not sure if this was the best method or the most respectful process. 
 
 ## Instructions to Run this Poem 
 This poem is written in python, which you can run locally on your own machine via your console or terminal. 
@@ -14,7 +14,7 @@ Here are instructions to easily run it on the web:
 1. Copy the text of the poem 
 > (Hotkeys: Command+C or CTRL+C)
 
-2. Open JupyterLab
+2. Open [JupyterLab](https://jupyter.org/try-jupyter/lab/)
 
 3. X out of the intro doc, or click File then New Launcher 
 > (Shift+CMD+L)
