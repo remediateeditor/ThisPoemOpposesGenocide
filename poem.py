@@ -115,7 +115,7 @@ infants = ["Adam Hana", "Izz Sweilem", "Yazan Shaafout", "Dalaa Khella", "Aseed 
 																				
 print("I urge you to use your voice and your vote as our elected representative to:")
 print("\t• Support the protection and provision of humanitarian aid in Gaza without bureaucratic", end=" ") 
-print("or military barriers to prevent further loss of life", end="")			#what are you going to do with that?
+print("or military barriers to prevent further loss of life.", end="")			#what are you going to do with that?
 if(geo == 1):																	#there are hundreds more-
 	print(", and support House Resolution 473.")
 else:
