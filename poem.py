@@ -98,7 +98,7 @@ infants = ["Adam Hana", "Izz Sweilem", "Yazan Shaafout", "Dalaa Khella", "Aseed 
 	"Sham Al-Ghurabli", "Teem Salman", "Asali Daghmash", "Sara Al-Ilmi", "Mohammed Baroud",
 	"Rafiq Al-Kahlout", "Bakr Tafesh", "Hamza Al-Nabih", "Ahmed Nasiyo", "Wafaa Al-Zmaili",
 	"Ibrahim Shalayel", "Jinan Al-Ghurra", "Muath Saad", "Bisan Qandil", "Ahmed Abu Daqqa",
-	"Malak Awad Allah", "Sharif Al-Hindi", "Yazan Radi", "Nour l-Anazi", "Ibrahim Al-Qara",
+	"Malak Awad Allah", "Sharif Al-Hindi", "Yazan Radi", "Zain Al-Zard", "Ibrahim Al-Qara",
 	"Sayyaf Abu Salah", "Hamed Abu Khati", "Dalal Ouda", "Muath Miqdad", "Eileen Al-Assar",
 	"Mohammed Darwish", "Muath Al-Bayouk", "Sama Muqat", "Wesam Wishah", "Siwar Abu Atiwi",
 	"Ibrahim Al-Shaer", "Yousef Abu Nimr", "Rital Nasr", "Sham Muharib", "Banan Al-Saloul",
