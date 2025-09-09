@@ -24,7 +24,7 @@ while(1):
 		if(spelling == x[1]):												
 			geo = 1																#personal tragedy is supposed to make you
 			break																#sympathetic, so you're meant to feel bad
-	if(geo <= 1): ##no spelling set 											#for me if i talk about my scars, mea culpa,
+	if(geo <= 1): 					 											#for me if i talk about my scars, mea culpa,
 		break																	#you should hold open doors, walk slower,
 	else:																		#or at least chitchat while we wait for
 		print("Sorry I did not understand. Please try again.")					#the lift — nice weather, finally,
@@ -119,7 +119,7 @@ print("or military barriers to prevent further loss of life.", end="")			#what a
 if(geo == 1):																	#there are hundreds more-
 	print(", and support House Resolution 473.")
 else:
-	print("")
+	print(".")
 print("\t• Place diplomatic and political pressure on Israel to resume the ceasefire agreement", end=" ") 
 print("and issue work visas to humanitarian workers.")
 mood = memory(2000)																#i set aside my phone and the news is
@@ -139,8 +139,8 @@ match mood:																		#very far away
 			print("\t• Do not support legislation such as the unconstitutional Israel Anti-Boycott Act which", end=" ")
 			print("attempts to criminalize constitutionally protected free speech.")
 	case "sad":
-		print("\t• Urgently support the evacuation of children from Gaza to receive medical aid.", end=" ")
-		print("• Remember the dead: ", end="")
+		print("\t• Urgently support the evacuation of children from Gaza to receive medical aid.")
+		print("\t• Remember the dead: ", end="")
 		mourn(20) #hold them
 
 conclusion = ("\nYour action is needed now to prevent further loss of life and destruction. Please act with haste. " 
